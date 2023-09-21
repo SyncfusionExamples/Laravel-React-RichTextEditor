@@ -191,7 +191,7 @@ export default Welcome;
 ```
 
 ## Run the Project
-To run the project run the following commands.
+To run the application run the following commands.
 
 ### 1. Build the project
 To build the project, run the following command.
