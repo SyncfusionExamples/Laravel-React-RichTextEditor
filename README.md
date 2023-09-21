@@ -49,9 +49,11 @@ cd example-app
 
 
 ## Getting started from Laravel Project
+This section describes how to add the React, EJ2 Components from scratch to the Laravel Project.
+
 
 ### 1. Install dependencies
-This section describes how to add the React, EJ2
+
 In the command prompt, run the following commands to install the dependencies.
 
 If you are cloning the github repository please goto Run the project.
@@ -189,6 +191,8 @@ export default Welcome;
 ```
 
 ## Run the Project
+To run the project run the following commands.
+
 ### 1. Build the project
 To build the project, run the following command.
 ```bash
